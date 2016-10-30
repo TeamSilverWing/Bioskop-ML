@@ -27,4 +27,4 @@ with a fix.
 You can request a new feature by submitting an issue to our [GitHub Repository][github].  If you
 would like to implement a new feature then Contact us through email.
 
-[github]: https://github.com/TeamSilverWing/Shop-It
+[github]: https://github.com/TeamSilverWing/Bioskop-ML
