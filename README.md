@@ -13,5 +13,3 @@ Bioskop is a Movie Recommendation Engine based on Collaborative Filtering. On th
 3. Fill the `config.cfg` as per your mysql configuration.
 4. cd into `schema/` and import the database schema named bioskop.sql into `phpMyAdmin`
 5. `cd` into `scripts/` and run `python once.py`
-
-That's it!
